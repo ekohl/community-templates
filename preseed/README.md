@@ -5,8 +5,8 @@ tested on:
 * Ubuntu 10.04 (lucid)
 * Ubuntu 12.04 (precise)
 * Ubuntu 13.04 (raring)
-* Debian 6.0 (Squeeze)
-* Debian 7.0 (Wheezy)
+* Debian 6 (Squeeze)
+* Debian 7 (Wheezy)
 
 # Host Parameters
 
